@@ -86,7 +86,7 @@ A design system like USWDS provides:
 
 ### The Rules of the Game, not the Outcome
 
-Using a design system like USWDS is like following the rules of baseball. No two games are exactly the same, but they're all recognizably baseball.
+Using a design system like USWDS is like following the rules of baseball. No two [games](https://wordle.cool/) are exactly the same, but they're all recognizably baseball.
 
 Similarly, sites that use the design system follow similar rules to achieve different and unique outcomes.  Each site can adapt to the mission, context and user needs specific to the agency or project, while promoting greater continuity of experience across the federal government.
 
